@@ -1,3 +1,3 @@
 from .CULane import CULane
 from .Tusimple import Tusimple
-from .bdd100k import bdd100k
+from .BDD100K import BDD100K
