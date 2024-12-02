@@ -1,3 +1,7 @@
+import sys
+sys.path.append('/content/ENet-SAD_Pytorch')
+sys.path.append('/content/ENet-SAD_Pytorch/dataset')
+
 import argparse
 import json
 import os
